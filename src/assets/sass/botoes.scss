@@ -1,0 +1,33 @@
+.btn {
+    margin-top: 15px;
+    margin: 5px;
+    font-size: 1rem;
+    border-radius: 7px;
+    font-weight: 500;
+    padding: 11px 20px;
+    outline: none;
+    text-decoration: none;
+}
+
+.btn-social-icon img {
+    text-decoration: none;
+    position: relative;
+    margin: 15px;
+    text-align: left;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: 34px;
+    width: 34px;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.centro {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
